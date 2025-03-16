@@ -1,0 +1,8 @@
+C:\Users\Funpl\Desktop\Для работы\Podgotovka\bin\Debug\Podgotovka.exe.config
+C:\Users\Funpl\Desktop\Для работы\Podgotovka\bin\Debug\Podgotovka.exe
+C:\Users\Funpl\Desktop\Для работы\Podgotovka\bin\Debug\Podgotovka.pdb
+C:\Users\Funpl\Desktop\Для работы\Podgotovka\obj\Debug\Podgotovka.csproj.AssemblyReference.cache
+C:\Users\Funpl\Desktop\Для работы\Podgotovka\obj\Debug\Podgotovka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Funpl\Desktop\Для работы\Podgotovka\obj\Debug\Podgotovka.csproj.CoreCompileInputs.cache
+C:\Users\Funpl\Desktop\Для работы\Podgotovka\obj\Debug\Podgotovka.exe
+C:\Users\Funpl\Desktop\Для работы\Podgotovka\obj\Debug\Podgotovka.pdb
